@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Hex Color App",
+      "live": "https://dazzoc.github.io/Hex-Color-App/",
+      "git": "https://github.com/dazzoc/Hex-Color-App",
+      "image": "https://i.imgur.com/sgMIDYC.png"
+    },
+    {
+      "name": "Docket",
+      "live": "https://docet.herokuapp.com/items",
+      "git": "https://github.com/dazzoc/To-Do-App",
+      "image": "https://i.imgur.com/jgERbMx.jpg"
+    }
+  ]
